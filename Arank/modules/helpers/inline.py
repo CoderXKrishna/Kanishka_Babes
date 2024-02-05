@@ -12,7 +12,7 @@ DEV_OP = [
     [
         InlineKeyboardButton(
             text="😍 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 😍",
-            url=f"https://t.me/{Itsz_Kanishka_Babess_Bot.username}?startgroup=true",
+            url=f"https://t.me/{Kanishka.username}?startgroup=true",
         ),
     ],
     [
@@ -28,7 +28,7 @@ PNG_BTN = [
     [
         InlineKeyboardButton(
             text="😍 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 😍",
-            url=f"https://t.me/{Itsz_Kanishka_Babess_Bot.username}?startgroup=true",
+            url=f"https://t.me/{Kanishka.username}?startgroup=true",
         ),
     ],
     [
@@ -107,7 +107,7 @@ HELP_START = [
 HELP_BUTN = [
     [
         InlineKeyboardButton(
-            text="🚀 ʜᴇʟᴘ 🚀", url=f"https://t.me/{Itsz_Kanishka_Babess_Bot.username}?start=help"
+            text="🚀 ʜᴇʟᴘ 🚀", url=f"https://t.me/{Kanishka.username}?start=help"
         ),
         InlineKeyboardButton(text="🐳 ᴄʟᴏsᴇ 🐳", callback_data="CLOSE"),
     ],
