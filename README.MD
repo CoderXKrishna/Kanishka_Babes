@@ -46,8 +46,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
 <a href="https://github.com/CoderXKrishna/Kanishka_Babess"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderXKrishna&repo=Kanishka_Babess&theme=chartreuse-dark"></a>
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
